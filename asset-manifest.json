@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-rive-animation/static/js/main.e983f8bb.chunk.js",
-    "main.js.map": "/react-rive-animation/static/js/main.e983f8bb.chunk.js.map",
+    "main.js": "/react-rive-animation/static/js/main.82b6ef24.chunk.js",
+    "main.js.map": "/react-rive-animation/static/js/main.82b6ef24.chunk.js.map",
     "runtime-main.js": "/react-rive-animation/static/js/runtime-main.8211861c.js",
     "runtime-main.js.map": "/react-rive-animation/static/js/runtime-main.8211861c.js.map",
     "static/js/2.6d28b783.chunk.js": "/react-rive-animation/static/js/2.6d28b783.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.8211861c.js",
     "static/js/2.6d28b783.chunk.js",
-    "static/js/main.e983f8bb.chunk.js"
+    "static/js/main.82b6ef24.chunk.js"
   ]
 }
